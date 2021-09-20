@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="879" height="552">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-1" height="20.56075" width="155.14018" y="17.5327" x="404.92519" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-2" height="18.69159" width="66.35514" y="48.37382" x="445.11211" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-3" height="16.82243" width="119.62617" y="77.34578" x="485.29902" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-4" height="15.88785" width="65.42056" y="108.1869" x="514.27099" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-5" height="14.95327" width="85.04673" y="138.09344" x="529.22426" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-6" height="17.75701" width="104.67289" y="74.54204" x="70.34576" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-7" height="33.64486" width="128.03738" y="100.71026" x="42.30838" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-8" height="17.75701" width="167.28972" y="145.57008" x="5.85978" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-9" height="14.95327" width="78.50467" y="173.60746" x="93.71025" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-10" height="15.88785" width="108.41121" y="198.8411" x="62.86913" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-11" height="13.08411" width="82.24299" y="221.27101" x="85.29903" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-12" height="14.01869" width="97.19626" y="244.63549" x="66.60744" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-13" height="17.75701" width="124.29906" y="268.93456" x="65.67287" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-14" height="14.01869" width="86.91589" y="296.03736" x="114.271" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-15" height="16.82243" width="129.90654" y="319.40185" x="89.97193" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-16" height="14.95327" width="87.85047" y="344.63549" x="154.45791" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-17" height="14.95327" width="63.5514" y="365.19624" x="201.18688" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-18" height="16.82243" width="98.13084" y="413.79437" x="208.66352" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-19" height="14.01869" width="226.16822" y="440.89717" x="101.18688" stroke="#2D2D2D" fill="#FFEBA2"/>
+  
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-20" height="15.88785" width="71.96262" y="461.45792" x="267.54202" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-21" height="16.82243" width="148.59813" y="484.8224" x="203.99062" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-22" height="13.08411" width="97.19626" y="510.05605" x="268.4766" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-23" height="16.82243" width="175.70093" y="530.6168" x="201.18688" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-24" height="16.82243" width="221.49532" y="503.51399" x="489.03734" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-25" height="17.75701" width="99.06542" y="334.35512" x="681.5607" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="26cadcde479f452893a8f06b32e81b94-ao-26" height="17.75701" width="101.86916" y="363.32708" x="682.49528" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+ </g>
+</svg>
